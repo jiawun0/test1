@@ -1,3 +1,4 @@
 ## 團隊成員
 
--Patrick
+- Patrick
+- Oria
